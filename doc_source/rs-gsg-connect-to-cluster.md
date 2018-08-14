@@ -45,7 +45,7 @@ This step assumes you installed SQL Workbench/J in [Step 1: Set Up Prerequisites
 
 1. In **URL**, copy the JDBC URL from the Amazon Redshift console and paste it here\.
 
-1. In **Username**, type *masteruser*\.
+1. In **Username**, type *awsuser*\.
 
 1. In **Password**, type the password associated with the master user account\.
 
